@@ -102,16 +102,16 @@
   </defs>
   <sodipodi:namedview
      id="base"
-     pagecolor="#ffffff"
+     pagecolor="#000000"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.9739414"
-     inkscape:cx="384.3696"
-     inkscape:cy="709.58036"
+     inkscape:cx="641.45337"
+     inkscape:cy="619.01776"
      inkscape:document-units="px"
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="layer8"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -1488,22 +1488,21 @@
      inkscape:groupmode="layer"
      id="layer8"
      inkscape:label="Deck"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <rect
        style="fill:#a49b88;fill-opacity:1;stroke:none;display:inline"
        id="rect5405"
-       width="376.18079"
-       height="6.8063498"
-       x="303.81326"
+       width="380.47943"
+       height="5.9107981"
+       x="299.51462"
        y="499.1864" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Lanterns"
-     sodipodi:insensitive="true"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <g
        id="g4677">
       <path
@@ -1636,7 +1635,8 @@
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="Roofs"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <rect
        style="fill:#656563;fill-opacity:1;stroke:none"
        id="rect4200"
@@ -1654,15 +1654,15 @@
     <rect
        style="fill:#000000;fill-opacity:0.21461188;stroke:none;display:inline"
        id="rect4194"
-       width="376.70593"
+       width="380.28815"
        height="145.94649"
-       x="303.11658"
+       x="299.53436"
        y="359.36127" />
     <rect
        style="fill:#f8f8f8;fill-opacity:1;stroke:none"
        id="rect5427"
        width="4.5"
-       height="287.5"
+       height="287.85822"
        x="299.5"
        y="213.5" />
     <path
